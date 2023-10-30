@@ -15,7 +15,8 @@ The company requires you to build a model wherein need to assign a lead score to
 with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion
 chance. The bench mark of the target lead conversion rate to be around 80%.</br>
 </br>
-## Dataset and Steps overview : </br>
+
+## Dataset and Steps overview:
 </br>
 The dataset consists the basic info about these potential leads such as how they come to know about the course, how much time did 
 they spend on the website, also how many time did they visited the website so on. </br> 
